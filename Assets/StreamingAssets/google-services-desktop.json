@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "838933828472",
-    "project_id": "what-happened-in-your-room-ar",
-    "storage_bucket": "what-happened-in-your-room-ar.firebasestorage.app"
+    "project_number": "830374569299",
+    "project_id": "studyfirestore-1cba4",
+    "storage_bucket": "studyfirestore-1cba4.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:838933828472:android:e5cf0e5a79fa23e4bd6e8d",
+        "mobilesdk_app_id": "1:830374569299:android:4a6535e1c352fc91752da6",
         "android_client_info": {
           "package_name": "com.TwoParkShinJo.Whathappenedinyourroom"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBWXgFwJc0DXhk4fgqnu25bArCzhAWgoQ8"
+          "current_key": "AIzaSyATHymrK6ZrQPqrD3QdfZ517F_yrZpFl_0"
         }
       ],
       "services": {
